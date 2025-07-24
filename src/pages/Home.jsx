@@ -8,7 +8,6 @@ function Home() {
       <p className="lead">
         Este es el panel para algo.
       </p>
-      {/*todo hecho por tutoriales de youtube, nada de lo que se lo aprendi en este ramo */}
       <div className="mt-4">
         <Link to="/perfil" className="btn btn-outline-primary me-3">Ir al Perfil</Link>
         <Link to="/dashboard" className="btn btn-outline-success">Ir al Dashboard</Link>
